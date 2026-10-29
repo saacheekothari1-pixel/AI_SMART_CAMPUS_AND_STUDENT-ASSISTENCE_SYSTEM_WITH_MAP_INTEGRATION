@@ -1,0 +1,4593 @@
+{
+  "faculty": [
+    {
+      "faculty_id": 251,
+      "faculty_name": "Dr. R.S Pande",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "panders@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 252,
+      "faculty_name": "Dr. A.A Khurshid",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "First",
+      "room_no": null,
+      "email": "khurshidaa@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 253,
+      "faculty_name": "Dr. M.A Hasamnis",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "First",
+      "room_no": null,
+      "email": "hasamnisma@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 254,
+      "faculty_name": "Dr. R.H Ochawar",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "ochawarrs@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 255,
+      "faculty_name": "Prof. P.A Dwaramwar",
+      "department": "Electronics",
+      "building": "G Block",
+      "floor": "Ground",
+      "room_no": null,
+      "email": "dwaramwarpa@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 256,
+      "faculty_name": "Dr. N.P Narkhede",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "narkhedepn@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 257,
+      "faculty_name": "Dr. J.P Kalambe",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "hodelectronics@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 258,
+      "faculty_name": "Dr. R.R Khandelwal",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "First",
+      "room_no": null,
+      "email": "khandelwalrr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 259,
+      "faculty_name": "Dr. J.A Shrawankar",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "shrawankarja@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 260,
+      "faculty_name": "Dr. B.M Hardas",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "First",
+      "room_no": null,
+      "email": "hardasbm@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 261,
+      "faculty_name": "Dr. D.M Kotambkar",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "shelkedt@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 262,
+      "faculty_name": "Dr. P.U Joshi",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "joshipu@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 263,
+      "faculty_name": "Dr. G.A Morankar",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "morankarg@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 264,
+      "faculty_name": "Dr. A.M Gupta",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "guptaam@rknec.in",
+      "source": null
+    },
+    {
+      "faculty_id": 265,
+      "faculty_name": "Prof. S.G Daware",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "First",
+      "room_no": null,
+      "email": "dawaresg@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 266,
+      "faculty_name": "Prof. N.S Damle",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "damlens@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 267,
+      "faculty_name": "Dr. P.K Joshi",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "First",
+      "room_no": null,
+      "email": "joshipk@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 268,
+      "faculty_name": "Dr. J.B Zalke",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "zalkej@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 269,
+      "faculty_name": "V.R Rathee",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "First",
+      "room_no": null,
+      "email": "ratheevr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 270,
+      "faculty_name": "Prof. R.H Khobragade",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "khobragaderh@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 271,
+      "faculty_name": "Dr. V.E Khetade",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "khetadev@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 272,
+      "faculty_name": "Dr. A.R Tiwari",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "tiwariar@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 273,
+      "faculty_name": "Prof. P.P Rane",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Lower Ground",
+      "room_no": null,
+      "email": "raneppl@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 274,
+      "faculty_name": "Prof. S.V Laddha",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Lower Ground",
+      "room_no": null,
+      "email": "laddhasv@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 275,
+      "faculty_name": "Dr. K.M Dhote",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "dhotek@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 276,
+      "faculty_name": "Dr. S.C Anjankar",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "anjankarsc@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 277,
+      "faculty_name": "Prof. V.R Gupta",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "guptavr1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 278,
+      "faculty_name": "Dr. L.M Heda",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "hedalm1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 279,
+      "faculty_name": "Dr. P.S Jawarkar",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "jawarkarps@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 280,
+      "faculty_name": "Dr. V Butram",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Lower Ground",
+      "room_no": null,
+      "email": "bulramv1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 281,
+      "faculty_name": "Dr. S Dutt",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "singhroys@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 282,
+      "faculty_name": "Dr. N Srivastava",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "srivastavan@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 283,
+      "faculty_name": "Prof. T Zaman",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "zamant@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 284,
+      "faculty_name": "Prof. R.M Dhuture",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "dhuturer@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 285,
+      "faculty_name": "Dr. A.V Agrawal",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "agrawalav_3@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 286,
+      "faculty_name": "Prof. K.K Kurkute",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "kurkutekk@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 287,
+      "faculty_name": "Dr. M.H Bilgaye",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Lower Ground",
+      "room_no": null,
+      "email": "bilgayemh@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 288,
+      "faculty_name": "Prof. U.A Wankhede",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "wankhedeua@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 289,
+      "faculty_name": "Prof. A.G Lakkoju",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "lakkojuag@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 290,
+      "faculty_name": "Prof. P Chawla",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "gawarlepa@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 291,
+      "faculty_name": "Prof. S Anjum",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "anjums@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 292,
+      "faculty_name": "Prof. S There",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "theresa@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 293,
+      "faculty_name": "Prof. D Ambilduke",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Third",
+      "room_no": null,
+      "email": "ambildukedi1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 294,
+      "faculty_name": "Prof. S.R Pande",
+      "department": "Electronics",
+      "building": "B Block",
+      "floor": "Second",
+      "room_no": null,
+      "email": "pandeys@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 295,
+      "faculty_name": "DR.SATYAJIT UPARKAR",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "GROUND",
+      "room_no": "STAFF ROOM 1",
+      "email": "uparkarss@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 296,
+      "faculty_name": "DR.YOGINEE PETHE",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "GROUND",
+      "room_no": "STAFF ROOM 1",
+      "email": "pethey@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 297,
+      "faculty_name": "DR.MONIKA KUMARI",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "GROUND",
+      "room_no": "STAFF ROOM 1",
+      "email": "kumarim@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 298,
+      "faculty_name": "DR SACHIN UPADHYE",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "GROUND",
+      "room_no": "STAFF ROOM 1",
+      "email": "upadhyesd@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 299,
+      "faculty_name": "PROF.VIDHI PITRODA",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "GROUND",
+      "room_no": "STAFF ROOM 1",
+      "email": "pitrodavn_01@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 300,
+      "faculty_name": "DR.NEHA AGRAWAL",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "FIRST",
+      "room_no": "STAFF ROOM 2",
+      "email": "agrawaln@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 301,
+      "faculty_name": "PROF.VISHNU VARDHAN",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "FIRST",
+      "room_no": "STAFF ROOM 2",
+      "email": "vardhanv@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 302,
+      "faculty_name": "PROF.SNEHA DESHMUKH",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "FIRST",
+      "room_no": "STAFF ROOM 2",
+      "email": "deshmukhsa1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 303,
+      "faculty_name": "PRO.MANDA UKEY",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "FIRST",
+      "room_no": "STAFF ROOM 2",
+      "email": "ukeym1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 304,
+      "faculty_name": "PROF.PUNAM KHANDAR",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "FIRST",
+      "room_no": "STAFF ROOM 2",
+      "email": "khandarp@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 305,
+      "faculty_name": "DR.NIHARIKA DAS",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "SECOND",
+      "room_no": "STAFF ROOM 3",
+      "email": "dasn@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 306,
+      "faculty_name": "DR.SHUBHANGI MOHOD",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "SECOND",
+      "room_no": "STAFF ROOM 3",
+      "email": "mohods@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 307,
+      "faculty_name": "DR.PRAVIN KARMORE",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "SECOND",
+      "room_no": "STAFF ROOM 3",
+      "email": "karmorepy@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 308,
+      "faculty_name": "PROF.ABHIJEET JAISWAL",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "SECOND",
+      "room_no": "STAFF ROOM 3",
+      "email": "jaiswalan@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 309,
+      "faculty_name": "PROF.PRAGATI DUBEY",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "SECOND",
+      "room_no": "STAFF ROOM 3",
+      "email": "dubeyp1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 310,
+      "faculty_name": "PROF.BINDIYA TURKAR",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "SECOND",
+      "room_no": "STAFF ROOM 3",
+      "email": "turkarb@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 311,
+      "faculty_name": "PROF.ACHAL ROKADE",
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "building": "MCA",
+      "floor": "SECOND",
+      "room_no": "STAFF ROOM 3",
+      "email": "rokadeay_1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 312,
+      "faculty_name": "Dr. N.N Nandy",
+      "department": "Mathematics",
+      "building": "G Block",
+      "floor": "First",
+      "room_no": "G -1/1",
+      "email": "nandyn@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 313,
+      "faculty_name": "M.S Patne",
+      "department": "Mathematics",
+      "building": "G Block",
+      "floor": "First",
+      "room_no": "G-1/3",
+      "email": "patnems@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 314,
+      "faculty_name": "R.G Ghumde",
+      "department": "Mathematics",
+      "building": "G Block",
+      "floor": "First",
+      "room_no": "G-1/2",
+      "email": "ghumderg@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 315,
+      "faculty_name": "P.A Saoji",
+      "department": "Mathematics",
+      "building": "G Block",
+      "floor": "First",
+      "room_no": "G-1/4",
+      "email": "saojipa@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 316,
+      "faculty_name": "P.O Bagde",
+      "department": "Mathematics",
+      "building": "G Block",
+      "floor": "First",
+      "room_no": "G-1/5",
+      "email": "bagdepo@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 317,
+      "faculty_name": "C.P Kumbhare",
+      "department": "Mathematics",
+      "building": "G Block",
+      "floor": "First",
+      "room_no": "G-1/1",
+      "email": "kumbharecp@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 318,
+      "faculty_name": "Dr. P.V Lapse",
+      "department": "Mathematics",
+      "building": "G Block",
+      "floor": "First",
+      "room_no": "G-1/5",
+      "email": "lepsepv@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 319,
+      "faculty_name": "Dr. A.R Lalke",
+      "department": "Mathematics",
+      "building": "G Block",
+      "floor": "First",
+      "room_no": "G-1/5",
+      "email": "lalkear@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 320,
+      "faculty_name": "M Kotewar",
+      "department": "Mathematics",
+      "building": "G Block",
+      "floor": "First",
+      "room_no": "G-1/5",
+      "email": "paratkarm@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 321,
+      "faculty_name": "S.Y Solanke",
+      "department": "Mathematics",
+      "building": "G Block",
+      "floor": "First",
+      "room_no": "G-1/5",
+      "email": "deshmukhsb@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 322,
+      "faculty_name": "K.K Ingole",
+      "department": "Mathematics",
+      "building": "G Block",
+      "floor": "First",
+      "room_no": "G-1/1",
+      "email": "Ingolekk_1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 323,
+      "faculty_name": "G.R Khobragade",
+      "department": "Mathematics",
+      "building": "G Block",
+      "floor": "First",
+      "room_no": "G-1/1",
+      "email": "khobragadegr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 324,
+      "faculty_name": "V.A Mahajan",
+      "department": "Mathematics",
+      "building": "G Block",
+      "floor": "First",
+      "room_no": "G-1/1",
+      "email": "mahajanva@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 325,
+      "faculty_name": "Dr. C.P Pandhurnekar",
+      "department": "Chemistry",
+      "building": "G Block",
+      "floor": "Second",
+      "room_no": "G-2/2",
+      "email": "pandhurnekarcp@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 326,
+      "faculty_name": "Dr. A.V Bharti",
+      "department": "Chemistry",
+      "building": "G Block",
+      "floor": "Second",
+      "room_no": "G-2/1",
+      "email": "bhartiav@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 327,
+      "faculty_name": "Dr. S.S Butoliya",
+      "department": "Chemistry",
+      "building": "G Block",
+      "floor": "Second",
+      "room_no": "G-2/1",
+      "email": "butoliyass@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 328,
+      "faculty_name": "Dr. S Meshram",
+      "department": "Chemistry",
+      "building": "G Block",
+      "floor": "Second",
+      "room_no": "G-2/3",
+      "email": "meshramsm@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 329,
+      "faculty_name": "Dr. S.L Mudliar",
+      "department": "Chemistry",
+      "building": "G Block",
+      "floor": "Second",
+      "room_no": "G-2/4",
+      "email": "mudliarsl@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 330,
+      "faculty_name": "Dr. P.A Mangrulkar",
+      "department": "Chemistry",
+      "building": "G Block",
+      "floor": "Second",
+      "room_no": "G-2/5",
+      "email": "mangrulkarpa@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 331,
+      "faculty_name": "Dr. S Kulkarni",
+      "department": "Physics",
+      "building": "G Block",
+      "floor": "Third",
+      "room_no": "G-3/2",
+      "email": "kulkarnis@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 332,
+      "faculty_name": "Dr. Vibha Ojha",
+      "department": "Physics",
+      "building": "G Block",
+      "floor": "Third",
+      "room_no": "G-3/1",
+      "email": "ojhav@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 333,
+      "faculty_name": "Dr. K.P. Patra",
+      "department": "Physics",
+      "building": "G Block",
+      "floor": "Third",
+      "room_no": "G-3/1",
+      "email": "patrak@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 334,
+      "faculty_name": "Dr. R Nafdey",
+      "department": "Physics",
+      "building": "G Block",
+      "floor": "Third",
+      "room_no": "G-3/3",
+      "email": "nafdeyr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 335,
+      "faculty_name": "Dr. Y Parauha",
+      "department": "Physics",
+      "building": "G Block",
+      "floor": "Third",
+      "room_no": "G-3/4",
+      "email": "parauhay@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 336,
+      "faculty_name": "Dr. N Hooda",
+      "department": "Physics",
+      "building": "G Block",
+      "floor": "Third",
+      "room_no": "G-3/4",
+      "email": "hoodan@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 337,
+      "faculty_name": "Dr. D Mehra",
+      "department": "Humanities",
+      "building": "G Block",
+      "floor": "Ground",
+      "room_no": "G-0/0",
+      "email": "mehrad@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 338,
+      "faculty_name": "Dr. V Asudani",
+      "department": "Humanities",
+      "building": "G Block",
+      "floor": "Ground",
+      "room_no": "G-0/0",
+      "email": "asudanivh@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 339,
+      "faculty_name": "Dr. D.Jain Thakre",
+      "department": "Humanities",
+      "building": "G Block",
+      "floor": "Ground",
+      "room_no": "G-0/0",
+      "email": "jaindr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 340,
+      "faculty_name": "Dr. R Joshi",
+      "department": "Humanities",
+      "building": "G Block",
+      "floor": "Ground",
+      "room_no": "G-0/0",
+      "email": "joshirr3@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 341,
+      "faculty_name": "P Singh Agarwal",
+      "department": "Humanities",
+      "building": "G Block",
+      "floor": "Ground",
+      "room_no": "G-0/0",
+      "email": "singhps1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 342,
+      "faculty_name": "J Rihan",
+      "department": "Humanities",
+      "building": "G Block",
+      "floor": "Ground",
+      "room_no": "G-0/0",
+      "email": "rihanjk@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 343,
+      "faculty_name": "A Ebrahim",
+      "department": "Humanities",
+      "building": "G Block",
+      "floor": "Ground",
+      "room_no": "G-0/0",
+      "email": "ebrahiman@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 344,
+      "faculty_name": "A Padalwar",
+      "department": "Humanities",
+      "building": "G Block",
+      "floor": "Ground",
+      "room_no": "G-0/0",
+      "email": "padalwarag@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 345,
+      "faculty_name": "A Walgaonkar",
+      "department": "Humanities",
+      "building": "G Block",
+      "floor": "Ground",
+      "room_no": "G-0/0",
+      "email": "walgaonkara@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 346,
+      "faculty_name": "B Raut",
+      "department": "Humanities",
+      "building": "G Block",
+      "floor": "Ground",
+      "room_no": "G-0/0",
+      "email": "rautb@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 347,
+      "faculty_name": "R Nagarkar",
+      "department": "Humanities",
+      "building": "G Block",
+      "floor": "Ground",
+      "room_no": "G-0/0",
+      "email": "nagarkarrr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 348,
+      "faculty_name": "S Kadam",
+      "department": "Humanities",
+      "building": "G Block",
+      "floor": "Ground",
+      "room_no": "G-0/0",
+      "email": "kadamss@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 349,
+      "faculty_name": "SAKET KANETKAR",
+      "department": "PHYSICAL EDUCATION",
+      "building": "IT",
+      "floor": "FIRST",
+      "room_no": "106",
+      "email": "kanetkarsd@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 350,
+      "faculty_name": "ANURAG",
+      "department": "PHYSICAL EDUCATION",
+      "building": "IT",
+      "floor": "FIRST",
+      "room_no": "106",
+      "email": "anuraga@rknec,edu",
+      "source": null
+    },
+    {
+      "faculty_id": 351,
+      "faculty_name": "AAYUSH JADHAV",
+      "department": "PHYSICAL EDUCATION",
+      "building": "IT",
+      "floor": "FIRST",
+      "room_no": "106",
+      "email": "jadhavak@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 352,
+      "faculty_name": "DR.AMRITA PANDE",
+      "department": "PHYSICAL EDUCATION",
+      "building": "IT",
+      "floor": "FIRST",
+      "room_no": "106",
+      "email": "pandea1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 353,
+      "faculty_name": "SHUBHAM ITANKAR",
+      "department": "PHYSICAL EDUCATION",
+      "building": "IT",
+      "floor": "FIRST",
+      "room_no": "106",
+      "email": "itankarsd@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 354,
+      "faculty_name": "VINISHA NITNAWARE",
+      "department": "PHYSICAL EDUCATION",
+      "building": "IT",
+      "floor": "FIRST",
+      "room_no": "106",
+      "email": "nitnawarev@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 355,
+      "faculty_name": "KANCHAN YADAV",
+      "department": "PHYSICAL EDUCATION",
+      "building": "IT",
+      "floor": "FIRST",
+      "room_no": "106",
+      "email": "yadavkf@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 356,
+      "faculty_name": "MS.MUSKAAN YADAV",
+      "department": "COUNSELLING CELL",
+      "building": "IT",
+      "floor": "SECOND",
+      "room_no": "203",
+      "email": "yadavm@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 357,
+      "faculty_name": "MS.KHUSHI NASINE",
+      "department": "COUNSELLING CELL",
+      "building": "IT",
+      "floor": "SECOND",
+      "room_no": "203",
+      "email": "nasinek@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 358,
+      "faculty_name": "MS.NILIMA RAMTEKE",
+      "department": "COUNSELLING CELL",
+      "building": "IT",
+      "floor": "SECOND",
+      "room_no": "203",
+      "email": "ramteken@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 359,
+      "faculty_name": "MS.HEMLATA DUBEY",
+      "department": "COUNSELLING CELL",
+      "building": "IT",
+      "floor": "SECOND",
+      "room_no": "203",
+      "email": "dubeyh@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 360,
+      "faculty_name": "PROF.P.S AGRAWAL",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "THIRD",
+      "room_no": "305",
+      "email": "agrawalps@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 361,
+      "faculty_name": "PROF.S.B.MILMILE",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "THIRD",
+      "room_no": "305",
+      "email": "milmilesb@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 362,
+      "faculty_name": "DR.D.J.DAHIGAONKAR",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "THIRD",
+      "room_no": "303",
+      "email": "dahigaonkard@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 363,
+      "faculty_name": "DR.M.S.KORDE",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "THIRD",
+      "room_no": "303",
+      "email": "kordems@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 364,
+      "faculty_name": "PROF.D.D.SHRIVASTAVA",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "THIRD",
+      "room_no": "303",
+      "email": "shrivastavadd1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 365,
+      "faculty_name": "DR.S.B.POKLE",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "THIRD",
+      "room_no": "303",
+      "email": "poklesb@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 366,
+      "faculty_name": "DR.PALLAVI PARLEWAR",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "THIRD",
+      "room_no": "301",
+      "email": "parlewarpk@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 367,
+      "faculty_name": "PROF.M.R.SARVE",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "THIRD",
+      "room_no": "307",
+      "email": "sarvemr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 368,
+      "faculty_name": "DR.D.G.KHUSHALANI",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "THIRD",
+      "room_no": "307",
+      "email": "khushalanidg@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 369,
+      "faculty_name": "PROF.N.M.BORKAR",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "FOURTH",
+      "room_no": "406",
+      "email": "borkarnm@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 370,
+      "faculty_name": "MS.APEKSHA SONARE",
+      "department": "RESEARCH SCHOLAR",
+      "building": "IT",
+      "floor": "FOURTH",
+      "room_no": "406",
+      "email": "sonarea@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 371,
+      "faculty_name": "DR.A.P.NILAWAR",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "FOURTH",
+      "room_no": "405",
+      "email": "nilawarap1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 372,
+      "faculty_name": "PROF.P.N.THAKRE",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "FOURTH",
+      "room_no": "405",
+      "email": "thakrepn@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 373,
+      "faculty_name": "DR.A.H.HARKARE",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "FOURTH",
+      "room_no": "403",
+      "email": "harkareah@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 374,
+      "faculty_name": "DR.B.A.NEOLE",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "FOURTH",
+      "room_no": "403",
+      "email": "neoleba@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 375,
+      "faculty_name": "DR.R.B.RAUT",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "FOURTH",
+      "room_no": "401",
+      "email": "rautrb@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 376,
+      "faculty_name": "DR.P.P.DESHPANDE",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "FOURTH",
+      "room_no": "401",
+      "email": "deshpandep@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 377,
+      "faculty_name": "PROF.V.S.LANDE",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "FOURTH",
+      "room_no": "401",
+      "email": "landevs@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 378,
+      "faculty_name": "DR.P.R.SELOKAR",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "FOURTH",
+      "room_no": "401",
+      "email": "selokarpr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 379,
+      "faculty_name": "DR.J.D.KENE",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "FOURTH",
+      "room_no": "407",
+      "email": "kenejd@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 380,
+      "faculty_name": "PROF.A.JAISWAL",
+      "department": "E & C ENGINEERING",
+      "building": "IT",
+      "floor": "FOURTH",
+      "room_no": "407",
+      "email": "jaiswala1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 381,
+      "faculty_name": "Dr. Preeti Vaditel",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "1st",
+      "room_no": "101",
+      "email": "hodcs@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 382,
+      "faculty_name": "Gulrukh nazneen",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "1st",
+      "room_no": "101",
+      "email": "nazneeng@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 383,
+      "faculty_name": "Shubham Tayade",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "1st",
+      "room_no": "101",
+      "email": "tayadesd@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 384,
+      "faculty_name": "Megha Rode",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "1st",
+      "room_no": "101",
+      "email": "rodemb@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 385,
+      "faculty_name": "Dr. Purshotam Assudani",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "1st",
+      "room_no": "104",
+      "email": "asudanivh@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 386,
+      "faculty_name": "Dr. Vrushali Bongirwar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "1st",
+      "room_no": "104",
+      "email": "bongirwarvk@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 387,
+      "faculty_name": "Ms. Shubhangi Neware",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "1st",
+      "room_no": "104",
+      "email": "newares@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 388,
+      "faculty_name": "Ms. Shubhangi Tirpude",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "1st",
+      "room_no": "108",
+      "email": "tirpudes@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 389,
+      "faculty_name": "Dr. Lalit Agrawal",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "1st",
+      "room_no": "108",
+      "email": "agrawalls@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 390,
+      "faculty_name": "Dr. Sweta Jain",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "1st",
+      "room_no": "108",
+      "email": "jains@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 391,
+      "faculty_name": "Dr. Praful Pardhi",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "1st",
+      "room_no": "110",
+      "email": "pardhipr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 392,
+      "faculty_name": "Ms. Aparna Gurjar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "1st",
+      "room_no": "110",
+      "email": "gurjaara@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 393,
+      "faculty_name": "Dr. Devishree Naidu",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "1st",
+      "room_no": "110",
+      "email": "naidud@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 394,
+      "faculty_name": "Dr. Manoj Chandak",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "2nd",
+      "room_no": null,
+      "email": "chandakmb@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 395,
+      "faculty_name": "Ms. Hirkani Padwed",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "2nd",
+      "room_no": "201",
+      "email": "padawads@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 396,
+      "faculty_name": "Hitesh Gehani",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "2nd",
+      "room_no": "201",
+      "email": "gehanihs@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 397,
+      "faculty_name": "Dr. Nisarg Gandhewar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "2nd",
+      "room_no": "204",
+      "email": "gandhewarn@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 398,
+      "faculty_name": "Dr. Abhijit Raipurkar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "2nd",
+      "room_no": "204",
+      "email": "raipurkarar@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 399,
+      "faculty_name": "Mr. Dilipkumar Borikar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "2nd",
+      "room_no": "204",
+      "email": "borikarda@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 400,
+      "faculty_name": "Ms. Neha Tirpude",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "2nd",
+      "room_no": "208",
+      "email": "tirpudenn@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 401,
+      "faculty_name": "Dr. Pravin Sonsare",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "2nd",
+      "room_no": "208",
+      "email": "sonsarep@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 402,
+      "faculty_name": "Dr. Khusboo Khurana",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "2nd",
+      "room_no": "208",
+      "email": "khuranakp@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 403,
+      "faculty_name": "Dr. Rina Damdoo",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "2nd",
+      "room_no": "210",
+      "email": "damdoor@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 404,
+      "faculty_name": "Dr. Arti Buche",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "2nd",
+      "room_no": "210",
+      "email": "buchea@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 405,
+      "faculty_name": "Ms. Kanak Kalyani",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "2nd",
+      "room_no": "210",
+      "email": "kalyanik@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 406,
+      "faculty_name": "Dr. Abhishek Sahu",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "3rd",
+      "room_no": "302",
+      "email": "sahua@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 407,
+      "faculty_name": "Ms. Dhanashree Junghare",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "3rd",
+      "room_no": "302",
+      "email": "junghared@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 408,
+      "faculty_name": "Dr. Charanjeet Dadiyala",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "3rd",
+      "room_no": "305",
+      "email": "dadiyalac@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 409,
+      "faculty_name": "Mr. Saurabh Tiwari",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "3rd",
+      "room_no": "305",
+      "email": "tiwalis@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 410,
+      "faculty_name": "Dr. Poonam Agarkar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "3rd",
+      "room_no": "305",
+      "email": "agarkarp@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 411,
+      "faculty_name": "Dr. Avinash Agrawal",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "3rd",
+      "room_no": "307",
+      "email": "agrawala@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 412,
+      "faculty_name": "Dr. Suresh Balpande",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "3rd",
+      "room_no": "307",
+      "email": "balpandes@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 413,
+      "faculty_name": "Mr. Sameer Tembhurney",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "3rd",
+      "room_no": "309",
+      "email": "tembhurneys@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 414,
+      "faculty_name": "Ms. Rasika Padegaonkar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "3rd",
+      "room_no": "309",
+      "email": "padegaonkarr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 415,
+      "faculty_name": "Ms. Sonam Meshram",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "3rd",
+      "room_no": "309",
+      "email": "meshrams@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 416,
+      "faculty_name": "Yogita Deshmukh",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "3rd",
+      "room_no": "309",
+      "email": "deshmukhy@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 417,
+      "faculty_name": "Kunal Kakade",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "3rd",
+      "room_no": "309",
+      "email": "kakadek@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 418,
+      "faculty_name": "Dr. Rashmi Welekar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "401",
+      "email": "welekarr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 419,
+      "faculty_name": "Mr. Dev Mukherjee",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "401",
+      "email": "mukherjeed@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 420,
+      "faculty_name": "Ms. Ankita Jaiswal",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "401",
+      "email": "jaiswala@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 421,
+      "faculty_name": "Ms. Monika Bagade",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "401",
+      "email": "bagadem@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 422,
+      "faculty_name": "Bharti Kungwani",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "401",
+      "email": "kungwanib@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 423,
+      "faculty_name": "Ms. Harshita patil",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "404",
+      "email": "patilh@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 424,
+      "faculty_name": "Ms. Jaya Nanwani",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "404",
+      "email": "nanwanij@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 425,
+      "faculty_name": "Ms. Sujata Wankhede",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "404",
+      "email": "wankhedes@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 426,
+      "faculty_name": "Dr. Amit Pimpalkar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "408",
+      "email": "pimpalkara@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 427,
+      "faculty_name": "Mr. Abhinay Gudade",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "408",
+      "email": "gudadea@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 428,
+      "faculty_name": "Pravin Khawse",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "408",
+      "email": "khawsep@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 429,
+      "faculty_name": "Mr. Yogesh Thakare",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "410",
+      "email": "thakarey@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 430,
+      "faculty_name": "Ms. Piyush Dhule",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "410",
+      "email": "dhulep@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 431,
+      "faculty_name": "Ms. Pranali Dandekar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "4th",
+      "room_no": "410",
+      "email": "dandekarp@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 432,
+      "faculty_name": "Dr. Aarti Karandikar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "501",
+      "email": "karandikara@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 433,
+      "faculty_name": "Ms. Pallavi Meshram",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "501",
+      "email": "meshramp@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 434,
+      "faculty_name": "Ms. Reetu Gupta",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "501",
+      "email": "guptar@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 435,
+      "faculty_name": "Ms. Shruti Kolte",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "501",
+      "email": "koltes@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 436,
+      "faculty_name": "Rutvik Bhondekar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "501",
+      "email": "bhondekarr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 437,
+      "faculty_name": "Dr. Supriya Gupta",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "504",
+      "email": "guptas@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 438,
+      "faculty_name": "Ms. Shruti Nair",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "504",
+      "email": "nairs@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 439,
+      "faculty_name": "Ms. Sonam Chopde",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "504",
+      "email": "chopdes@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 440,
+      "faculty_name": "Ms. Vinita Kakani",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "508",
+      "email": "kakaniv@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 441,
+      "faculty_name": "Ms. Uma Yadav",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "508",
+      "email": "yadavuma@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 442,
+      "faculty_name": "Ms. Titiksha Bhagat",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "508",
+      "email": "bhagatt@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 443,
+      "faculty_name": "Dr. Chetana Thaokar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "510",
+      "email": "thaokarc@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 444,
+      "faculty_name": "Ms. Pratibha Kokardekar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "510",
+      "email": "kokardekarp@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 445,
+      "faculty_name": "Dr. Shweta Bondre",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "5th",
+      "room_no": "510",
+      "email": "bondres@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 446,
+      "faculty_name": "Dr. Padma Dattatraya Adane",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "6th",
+      "room_no": "601",
+      "email": "adanep@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 447,
+      "faculty_name": "Ms. Tejeswini Akulwar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "6th",
+      "room_no": "601",
+      "email": "akulwart@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 448,
+      "faculty_name": "Rasika Rewatkar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "6th",
+      "room_no": "601",
+      "email": "rewatkarr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 449,
+      "faculty_name": "Ms. Nikita Jamgade",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "6th",
+      "room_no": "601",
+      "email": "jamgaden@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 450,
+      "faculty_name": "Komal Raut",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "6th",
+      "room_no": "601",
+      "email": "rautk@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 451,
+      "faculty_name": "Mr. Kaushik Roy",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "6th",
+      "room_no": "604",
+      "email": "royk@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 452,
+      "faculty_name": "Dr. Ashish Chandak",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "6th",
+      "room_no": "604",
+      "email": "chandaka@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 453,
+      "faculty_name": "Mr. Siddhant Jaiswal",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "6th",
+      "room_no": "604",
+      "email": "jaiswalsi@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 454,
+      "faculty_name": "Dr. Samir Ajani",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "6th",
+      "room_no": "610",
+      "email": "ajanis@@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 455,
+      "faculty_name": "Ms. R Suryawanshi",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "6th",
+      "room_no": "610",
+      "email": "suryawanshir@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 456,
+      "faculty_name": "Mr. Anil Band",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "6th",
+      "room_no": "610",
+      "email": "banda@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 457,
+      "faculty_name": "Kishor Peshwani",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "7th",
+      "room_no": "703",
+      "email": "peshwanikr@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 458,
+      "faculty_name": "Mr. Rishiaram Maskare",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "7th",
+      "room_no": "703",
+      "email": "maskarert@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 459,
+      "faculty_name": "T.R Harinkede",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "7th",
+      "room_no": "703",
+      "email": "harinkhedet@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 460,
+      "faculty_name": "Dr. Chaitanya Rajan",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "7th",
+      "room_no": "705",
+      "email": "rajanc@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 461,
+      "faculty_name": "Nupur Banode",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "7th",
+      "room_no": "707",
+      "email": "banoden@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 462,
+      "faculty_name": "Kiran Ande",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "7th",
+      "room_no": "707",
+      "email": "andeka@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 463,
+      "faculty_name": "Ms. Ritu Godhani",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "7th",
+      "room_no": "707",
+      "email": "godhanirb01@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 464,
+      "faculty_name": "Chandan Sah",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "7th",
+      "room_no": "707",
+      "email": "chandan101099@gmail.com",
+      "source": null
+    },
+    {
+      "faculty_id": 465,
+      "faculty_name": "R. Ponmalar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "7th",
+      "room_no": "707",
+      "email": "ponmalarp@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 466,
+      "faculty_name": "Prof. DATTATRAYA SAKHARAM ADANE",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "8th",
+      "room_no": "701",
+      "email": "adaned@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 467,
+      "faculty_name": "Gunjan Keswani",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "8th",
+      "room_no": "801",
+      "email": "keswanigv@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 468,
+      "faculty_name": "Anshul Pande",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "8th",
+      "room_no": "801",
+      "email": "pandeav1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 469,
+      "faculty_name": "Ms. Bhagyashree Madan",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "8th",
+      "room_no": "801",
+      "email": "madanb@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 470,
+      "faculty_name": "Arslaan Sheikh",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "8th",
+      "room_no": "801",
+      "email": "sheikha@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 471,
+      "faculty_name": "Barkha S Dange",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "8th",
+      "room_no": "804",
+      "email": "dangebs@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 472,
+      "faculty_name": "Ms. S Ghodeswar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "8th",
+      "room_no": "804",
+      "email": "ghodeswars@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 473,
+      "faculty_name": "Leena Rokde",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "8th",
+      "room_no": "804",
+      "email": "rokdels@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 474,
+      "faculty_name": "Ms. Nikita Kataria",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "8th",
+      "room_no": "810",
+      "email": "katariyan@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 475,
+      "faculty_name": "Ms. Neha Lanke",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "8th",
+      "room_no": "810",
+      "email": "lankenp@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 476,
+      "faculty_name": "Bhushan Gedam",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "8th",
+      "room_no": "810",
+      "email": "gedamb@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 477,
+      "faculty_name": "Dr. Sharvari Deshmukh",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "904",
+      "email": "deshmukhsc1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 478,
+      "faculty_name": "Ashwini Agashe",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "904",
+      "email": "agashear@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 479,
+      "faculty_name": "Ms. Ayesha Khan",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "904",
+      "email": "khan_a@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 480,
+      "faculty_name": "Riya Kumbhare",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "904",
+      "email": "kumbharer@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 481,
+      "faculty_name": "Samiha Khan",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "905",
+      "email": "khansm@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 482,
+      "faculty_name": "Ms. Sana Qazi",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "905",
+      "email": "quaziss@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 483,
+      "faculty_name": "Poonam Meghare",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "905",
+      "email": "megharepv@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 484,
+      "faculty_name": "Sagar Tete",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "905",
+      "email": "tetesp@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 485,
+      "faculty_name": "Tintu Philip",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "905",
+      "email": "philipte@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 486,
+      "faculty_name": "Mikhail John",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "905",
+      "email": "johnmikhal@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 487,
+      "faculty_name": "J Wankhede",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "905",
+      "email": "wankhedej@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 488,
+      "faculty_name": "Aboli Hole",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "905",
+      "email": "holea@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 489,
+      "faculty_name": "Sanil Raut",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "905",
+      "email": "rauts@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 490,
+      "faculty_name": "Girish Umaratkar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "9th",
+      "room_no": "905",
+      "email": "umaratkargb@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 491,
+      "faculty_name": "Kavita P Manekar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "10th",
+      "room_no": "1001",
+      "email": "manekark@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 492,
+      "faculty_name": "Priyanka Mangalkar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "10th",
+      "room_no": "1001",
+      "email": "mangalkarpa@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 493,
+      "faculty_name": "Sneha Patle",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "10th",
+      "room_no": "1001",
+      "email": "patlesk1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 494,
+      "faculty_name": "Asakti Rautkar",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "10th",
+      "room_no": "1001",
+      "email": "rautkara@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 495,
+      "faculty_name": "Ms. Shital Shende",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "10th",
+      "room_no": "1004",
+      "email": "shendesp1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 496,
+      "faculty_name": "Vishwas Bhagwat",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "10th",
+      "room_no": "1004",
+      "email": "bhagwatvs1@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 497,
+      "faculty_name": "Pratiksha Ramteke",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "10th",
+      "room_no": "1004",
+      "email": "ramtekep@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 498,
+      "faculty_name": "Purva Vyavahare",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "10th",
+      "room_no": "1010",
+      "email": "vyawaharepn@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 499,
+      "faculty_name": "Rashmi Dadge",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "10th",
+      "room_no": "1010",
+      "email": "dagder@rknec.edu",
+      "source": null
+    },
+    {
+      "faculty_id": 500,
+      "faculty_name": "Ayushi Dubey",
+      "department": "CSE",
+      "building": "DT",
+      "floor": "10th",
+      "room_no": "1010",
+      "email": "dubeya@rknec.edu",
+      "source": null
+    }
+  ],
+  "classrooms": [
+    {
+      "classroom_id": 83,
+      "room_no": "1003",
+      "building": "DT",
+      "floor": "10th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 84,
+      "room_no": "1006",
+      "building": "DT",
+      "floor": "10th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 85,
+      "room_no": "1012",
+      "building": "DT",
+      "floor": "10th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 86,
+      "room_no": "803",
+      "building": "DT",
+      "floor": "8th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 87,
+      "room_no": "806",
+      "building": "DT",
+      "floor": "8th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 88,
+      "room_no": "812",
+      "building": "DT",
+      "floor": "8th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 89,
+      "room_no": "708",
+      "building": "DT",
+      "floor": "7th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 90,
+      "room_no": "603",
+      "building": "DT",
+      "floor": "6th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 91,
+      "room_no": "606",
+      "building": "DT",
+      "floor": "6th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 92,
+      "room_no": "612",
+      "building": "DT",
+      "floor": "6th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 93,
+      "room_no": "503",
+      "building": "DT",
+      "floor": "5th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 94,
+      "room_no": "506",
+      "building": "DT",
+      "floor": "5th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 95,
+      "room_no": "512",
+      "building": "DT",
+      "floor": "5th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 96,
+      "room_no": "403",
+      "building": "DT",
+      "floor": "4th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 97,
+      "room_no": "406",
+      "building": "DT",
+      "floor": "4th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 98,
+      "room_no": "412",
+      "building": "DT",
+      "floor": "4th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 99,
+      "room_no": "301",
+      "building": "DT",
+      "floor": "3rd",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 100,
+      "room_no": "304",
+      "building": "DT",
+      "floor": "3rd",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 101,
+      "room_no": "310",
+      "building": "DT",
+      "floor": "3rd",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 102,
+      "room_no": "203",
+      "building": "DT",
+      "floor": "2nd",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 103,
+      "room_no": "206",
+      "building": "DT",
+      "floor": "2nd",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 104,
+      "room_no": "212",
+      "building": "DT",
+      "floor": "2nd",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 105,
+      "room_no": "103",
+      "building": "DT",
+      "floor": "1st",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 106,
+      "room_no": "106",
+      "building": "DT",
+      "floor": "1st",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 107,
+      "room_no": "112",
+      "building": "DT",
+      "floor": "1st",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 108,
+      "room_no": "Conference Room",
+      "building": "DT",
+      "floor": "10th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 109,
+      "room_no": "Conference Room",
+      "building": "DT",
+      "floor": "8th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 110,
+      "room_no": "Conference Room",
+      "building": "DT",
+      "floor": "6th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 111,
+      "room_no": "Seminar Hall-1",
+      "building": "DT",
+      "floor": "7th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 112,
+      "room_no": "Seminar Hall-2",
+      "building": "DT",
+      "floor": "7th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 113,
+      "room_no": "COE Hall 01(A)",
+      "building": "DT",
+      "floor": "9th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 114,
+      "room_no": "COE Hall 01(B)",
+      "building": "DT",
+      "floor": "9th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 115,
+      "room_no": "COE Hall 02(A)",
+      "building": "DT",
+      "floor": "9th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 116,
+      "room_no": "COE Hall 02(B)",
+      "building": "DT",
+      "floor": "9th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 117,
+      "room_no": "COE Hall 03",
+      "building": "DT",
+      "floor": "9th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 118,
+      "room_no": "COE Hall 04",
+      "building": "DT",
+      "floor": "9th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 119,
+      "room_no": "COE Hall 05",
+      "building": "DT",
+      "floor": "9th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 120,
+      "room_no": "Training Hall",
+      "building": "DT",
+      "floor": "9th",
+      "source": "DT"
+    },
+    {
+      "classroom_id": 121,
+      "room_no": "Classroom B-0/4",
+      "building": "B Block",
+      "floor": "Ground",
+      "source": "B-BLOCK"
+    },
+    {
+      "classroom_id": 122,
+      "room_no": "Classroom B-0/5",
+      "building": "B Block",
+      "floor": "Ground",
+      "source": "B-BLOCK"
+    },
+    {
+      "classroom_id": 123,
+      "room_no": "Classroom B-0/6",
+      "building": "B Block",
+      "floor": "Ground",
+      "source": "B-BLOCK"
+    },
+    {
+      "classroom_id": 124,
+      "room_no": "Classroom B-1/6",
+      "building": "B Block",
+      "floor": "First",
+      "source": "B-BLOCK"
+    },
+    {
+      "classroom_id": 125,
+      "room_no": "Classroom B-1/7",
+      "building": "B Block",
+      "floor": "First",
+      "source": "B-BLOCK"
+    },
+    {
+      "classroom_id": 126,
+      "room_no": "Classroom B-1/8",
+      "building": "B Block",
+      "floor": "First",
+      "source": "B-BLOCK"
+    },
+    {
+      "classroom_id": 127,
+      "room_no": "Classroom B-2/2",
+      "building": "B Block",
+      "floor": "Second",
+      "source": "B-BLOCK"
+    },
+    {
+      "classroom_id": 128,
+      "room_no": "Classroom B-3/6(B)",
+      "building": "B Block",
+      "floor": "Third",
+      "source": "B-BLOCK"
+    },
+    {
+      "classroom_id": 129,
+      "room_no": "Classroom B-3/2",
+      "building": "B Block",
+      "floor": "Third",
+      "source": "B-BLOCK"
+    },
+    {
+      "classroom_id": 130,
+      "room_no": "Classroom B-3/3",
+      "building": "B Block",
+      "floor": "Third",
+      "source": "B-BLOCK"
+    },
+    {
+      "classroom_id": 131,
+      "room_no": "Classroom B-00/6",
+      "building": "B Block",
+      "floor": "L G",
+      "source": "B-BLOCK"
+    },
+    {
+      "classroom_id": 132,
+      "room_no": "MB 1/3 auditorium",
+      "building": "Mba",
+      "floor": "1st",
+      "source": "MBA"
+    },
+    {
+      "classroom_id": 133,
+      "room_no": "MB 1/5 auditorium",
+      "building": "Mba",
+      "floor": "1st",
+      "source": "MBA"
+    },
+    {
+      "classroom_id": 134,
+      "room_no": "MB 1/12",
+      "building": "Mba",
+      "floor": "1st",
+      "source": "MBA"
+    },
+    {
+      "classroom_id": 135,
+      "room_no": "MB 1/13",
+      "building": "Mba",
+      "floor": "1st",
+      "source": "MBA"
+    },
+    {
+      "classroom_id": 136,
+      "room_no": "MB 2/5",
+      "building": "Mba",
+      "floor": "2nd",
+      "source": "MBA"
+    },
+    {
+      "classroom_id": 137,
+      "room_no": "MB 2/4",
+      "building": "Mba",
+      "floor": "2nd",
+      "source": "MBA"
+    },
+    {
+      "classroom_id": 138,
+      "room_no": "MB 2/1",
+      "building": "Mba",
+      "floor": "2nd",
+      "source": "MBA"
+    },
+    {
+      "classroom_id": 139,
+      "room_no": "MB 3/3 (1)",
+      "building": "Mba",
+      "floor": "3rd",
+      "source": "MBA"
+    },
+    {
+      "classroom_id": 140,
+      "room_no": "MB 3/3 (2)",
+      "building": "Mba",
+      "floor": "3rd",
+      "source": "MBA"
+    },
+    {
+      "classroom_id": 141,
+      "room_no": "MB 3/2",
+      "building": "Mba",
+      "floor": "3rd",
+      "source": "MBA"
+    },
+    {
+      "classroom_id": 142,
+      "room_no": "MB 3/1",
+      "building": "Mba",
+      "floor": "3rd",
+      "source": "MBA"
+    },
+    {
+      "classroom_id": 143,
+      "room_no": "MB 4/2",
+      "building": "Mba",
+      "floor": "4th",
+      "source": "MBA"
+    },
+    {
+      "classroom_id": 144,
+      "room_no": "MB 4/1",
+      "building": "Mba",
+      "floor": "4th",
+      "source": "MBA"
+    },
+    {
+      "classroom_id": 145,
+      "room_no": "CLASS ROOM1",
+      "building": "MCA",
+      "floor": "GROUND",
+      "source": "MCA"
+    },
+    {
+      "classroom_id": 146,
+      "room_no": "CLASS ROOM2",
+      "building": "MCA",
+      "floor": "FIRST",
+      "source": "MCA"
+    },
+    {
+      "classroom_id": 147,
+      "room_no": "CLASS ROOM3",
+      "building": "MCA",
+      "floor": "SECOND",
+      "source": "MCA"
+    },
+    {
+      "classroom_id": 148,
+      "room_no": "MCA LIBRARY",
+      "building": "MCA",
+      "floor": "LOWER",
+      "source": "MCA"
+    },
+    {
+      "classroom_id": 149,
+      "room_no": "G-2/5",
+      "building": "G Block",
+      "floor": "Second",
+      "source": "G-BLOCK"
+    },
+    {
+      "classroom_id": 150,
+      "room_no": "G-2/6",
+      "building": "G Block",
+      "floor": "Second",
+      "source": "G-BLOCK"
+    },
+    {
+      "classroom_id": 151,
+      "room_no": "G-2/7",
+      "building": "G Block",
+      "floor": "Second",
+      "source": "G-BLOCK"
+    },
+    {
+      "classroom_id": 152,
+      "room_no": "207",
+      "building": "IT",
+      "floor": "SECOND",
+      "source": "IT"
+    },
+    {
+      "classroom_id": 153,
+      "room_no": "208",
+      "building": "IT",
+      "floor": "SECOND",
+      "source": "IT"
+    },
+    {
+      "classroom_id": 154,
+      "room_no": "304",
+      "building": "IT",
+      "floor": "THIRD",
+      "source": "IT"
+    },
+    {
+      "classroom_id": 155,
+      "room_no": "308",
+      "building": "IT",
+      "floor": "THIRD",
+      "source": "IT"
+    },
+    {
+      "classroom_id": 156,
+      "room_no": "404",
+      "building": "IT",
+      "floor": "FOURTH",
+      "source": "IT"
+    },
+    {
+      "classroom_id": 157,
+      "room_no": "402",
+      "building": "IT",
+      "floor": "FOURTH",
+      "source": "IT"
+    },
+    {
+      "classroom_id": 158,
+      "room_no": "408",
+      "building": "IT",
+      "floor": "FOURTH",
+      "source": "IT"
+    },
+    {
+      "classroom_id": 159,
+      "room_no": "SRC ROOM",
+      "building": "IT",
+      "floor": "FIRST",
+      "source": "IT"
+    },
+    {
+      "classroom_id": 160,
+      "room_no": "MUSIC CLUB",
+      "building": "IT",
+      "floor": "FIRST",
+      "source": "IT"
+    },
+    {
+      "classroom_id": 161,
+      "room_no": "STUDENT WELFARE OFFICE",
+      "building": "IT",
+      "floor": "FIRST",
+      "source": "IT"
+    },
+    {
+      "classroom_id": 162,
+      "room_no": "DRAMA CLUB",
+      "building": "IT",
+      "floor": "FIRST",
+      "source": "IT"
+    },
+    {
+      "classroom_id": 163,
+      "room_no": "DANCE CLUB",
+      "building": "IT",
+      "floor": "FIRST",
+      "source": "IT"
+    },
+    {
+      "classroom_id": 164,
+      "room_no": "MEDIA ROOM (002)",
+      "building": "IT",
+      "floor": "GROUND",
+      "source": "IT"
+    }
+  ],
+  "labs": [
+    {
+      "lab_id": 49,
+      "lab_room_no": "Surveying lab",
+      "building": "DT",
+      "floor": "LG",
+      "source": "DT"
+    },
+    {
+      "lab_id": 50,
+      "lab_room_no": "Structural dynamics",
+      "building": "DT",
+      "floor": "LG",
+      "source": "DT"
+    },
+    {
+      "lab_id": 51,
+      "lab_room_no": "Concrete technology",
+      "building": "DT",
+      "floor": "LG",
+      "source": "DT"
+    },
+    {
+      "lab_id": 52,
+      "lab_room_no": "NABL lab",
+      "building": "DT",
+      "floor": "LG",
+      "source": "DT"
+    },
+    {
+      "lab_id": 53,
+      "lab_room_no": "Environmental eng",
+      "building": "DT",
+      "floor": "LG",
+      "source": "DT"
+    },
+    {
+      "lab_id": 54,
+      "lab_room_no": "Transportation eng",
+      "building": "DT",
+      "floor": "LG",
+      "source": "DT"
+    },
+    {
+      "lab_id": 55,
+      "lab_room_no": "Geotechnical eng",
+      "building": "DT",
+      "floor": "LG",
+      "source": "DT"
+    },
+    {
+      "lab_id": 56,
+      "lab_room_no": "Fluid mechanics",
+      "building": "DT",
+      "floor": "LG",
+      "source": "DT"
+    },
+    {
+      "lab_id": 57,
+      "lab_room_no": "Data Structure Lab",
+      "building": "DT",
+      "floor": "10th",
+      "source": "DT"
+    },
+    {
+      "lab_id": 58,
+      "lab_room_no": "Fundamentals of Programming Lab",
+      "building": "DT",
+      "floor": "10th",
+      "source": "DT"
+    },
+    {
+      "lab_id": 59,
+      "lab_room_no": "Linux Lab",
+      "building": "DT",
+      "floor": "10th",
+      "source": "DT"
+    },
+    {
+      "lab_id": 60,
+      "lab_room_no": "Hyperspectral Imaging Lab",
+      "building": "DT",
+      "floor": "9th",
+      "source": "DT"
+    },
+    {
+      "lab_id": 61,
+      "lab_room_no": "Research and Development Lab",
+      "building": "DT",
+      "floor": "9th",
+      "source": "DT"
+    },
+    {
+      "lab_id": 62,
+      "lab_room_no": "Computer Lab 1",
+      "building": "DT",
+      "floor": "8th",
+      "source": "DT"
+    },
+    {
+      "lab_id": 63,
+      "lab_room_no": "Project Lab",
+      "building": "DT",
+      "floor": "8th",
+      "source": "DT"
+    },
+    {
+      "lab_id": 64,
+      "lab_room_no": "Computer Lab 2",
+      "building": "DT",
+      "floor": "8th",
+      "source": "DT"
+    },
+    {
+      "lab_id": 65,
+      "lab_room_no": "Computer Lab",
+      "building": "DT",
+      "floor": "7th",
+      "source": "DT"
+    },
+    {
+      "lab_id": 66,
+      "lab_room_no": "Project Lab",
+      "building": "DT",
+      "floor": "7th",
+      "source": "DT"
+    },
+    {
+      "lab_id": 67,
+      "lab_room_no": "Lab 4",
+      "building": "B Block",
+      "floor": "Ground",
+      "source": "B-BLOCK"
+    },
+    {
+      "lab_id": 68,
+      "lab_room_no": "Lab 6",
+      "building": "B Block",
+      "floor": "First",
+      "source": "B-BLOCK"
+    },
+    {
+      "lab_id": 69,
+      "lab_room_no": "Analog circuit B-2/5",
+      "building": "B Block",
+      "floor": "second",
+      "source": "B-BLOCK"
+    },
+    {
+      "lab_id": 70,
+      "lab_room_no": "EDA Lab B-2/1(A)",
+      "building": "B Block",
+      "floor": "second",
+      "source": "B-BLOCK"
+    },
+    {
+      "lab_id": 71,
+      "lab_room_no": "Research Lab B-2/1(B)",
+      "building": "B Block",
+      "floor": "second",
+      "source": "B-BLOCK"
+    },
+    {
+      "lab_id": 72,
+      "lab_room_no": "Design System Lab B-3/6(B)",
+      "building": "B Block",
+      "floor": "third",
+      "source": "B-BLOCK"
+    },
+    {
+      "lab_id": 73,
+      "lab_room_no": "Centre for Microsystem Microsystem B-2/4",
+      "building": "B Block",
+      "floor": "second",
+      "source": "B-BLOCK"
+    },
+    {
+      "lab_id": 74,
+      "lab_room_no": "Seminar Hall",
+      "building": "B Block",
+      "floor": "Third",
+      "source": "B-BLOCK"
+    },
+    {
+      "lab_id": 75,
+      "lab_room_no": "MB 1/10 computer lab",
+      "building": "MBA",
+      "floor": "1st",
+      "source": "MBA"
+    },
+    {
+      "lab_id": 76,
+      "lab_room_no": "MB 1/11 computer lab 2",
+      "building": "Mba",
+      "floor": "1st",
+      "source": "MBA"
+    },
+    {
+      "lab_id": 77,
+      "lab_room_no": "DMT library",
+      "building": "MBA",
+      "floor": "1st",
+      "source": "MBA"
+    },
+    {
+      "lab_id": 78,
+      "lab_room_no": "MB 4/7 Aiml lab",
+      "building": "MBA",
+      "floor": "4th",
+      "source": "MBA"
+    },
+    {
+      "lab_id": 79,
+      "lab_room_no": "MB 4/7 cyber security lab 1",
+      "building": "MBA",
+      "floor": "4th",
+      "source": "MBA"
+    },
+    {
+      "lab_id": 80,
+      "lab_room_no": "MB 4/4",
+      "building": "MBA",
+      "floor": "4th",
+      "source": "MBA"
+    },
+    {
+      "lab_id": 81,
+      "lab_room_no": "MB 4/3",
+      "building": "MBA",
+      "floor": "4th",
+      "source": "MBA"
+    },
+    {
+      "lab_id": 82,
+      "lab_room_no": "COMPUTER LAB 1",
+      "building": "MCA",
+      "floor": "GROUND",
+      "source": "MCA"
+    },
+    {
+      "lab_id": 83,
+      "lab_room_no": "COMPUTER LAB 2",
+      "building": "MCA",
+      "floor": "FIRST",
+      "source": "MCA"
+    },
+    {
+      "lab_id": 84,
+      "lab_room_no": "COMPUTER LAB 3",
+      "building": "MCA",
+      "floor": "SECOND",
+      "source": "MCA"
+    },
+    {
+      "lab_id": 85,
+      "lab_room_no": "Computational Mathematics Lab - 2 G-1/8",
+      "building": "G Block",
+      "floor": "First",
+      "source": "G-BLOCK"
+    },
+    {
+      "lab_id": 86,
+      "lab_room_no": "Computational Mathematics Lab -1 G-1/9",
+      "building": "G Block",
+      "floor": "First",
+      "source": "G-BLOCK"
+    },
+    {
+      "lab_id": 87,
+      "lab_room_no": "Environmental Chemistry Lab G- 1/11",
+      "building": "G Block",
+      "floor": "First",
+      "source": "G-BLOCK"
+    },
+    {
+      "lab_id": 88,
+      "lab_room_no": "Language Lab",
+      "building": "G Block",
+      "floor": "First",
+      "source": "G-BLOCK"
+    },
+    {
+      "lab_id": 89,
+      "lab_room_no": "205",
+      "building": "IT",
+      "floor": "SECOND",
+      "source": "IT"
+    },
+    {
+      "lab_id": 90,
+      "lab_room_no": "204",
+      "building": "IT",
+      "floor": "SECOND",
+      "source": "IT"
+    },
+    {
+      "lab_id": 91,
+      "lab_room_no": "202",
+      "building": "IT",
+      "floor": "SECOND",
+      "source": "IT"
+    },
+    {
+      "lab_id": 92,
+      "lab_room_no": "302",
+      "building": "IT",
+      "floor": "THIRD",
+      "source": "IT"
+    },
+    {
+      "lab_id": 93,
+      "lab_room_no": "307",
+      "building": "IT",
+      "floor": "THIRD",
+      "source": "IT"
+    },
+    {
+      "lab_id": 94,
+      "lab_room_no": "406",
+      "building": "IT",
+      "floor": "FOURTH",
+      "source": "IT"
+    },
+    {
+      "lab_id": 95,
+      "lab_room_no": "405",
+      "building": "IT",
+      "floor": "FOURTH",
+      "source": "IT"
+    },
+    {
+      "lab_id": 96,
+      "lab_room_no": "407",
+      "building": "IT",
+      "floor": "FOURTH",
+      "source": "IT"
+    }
+  ],
+  "offices": [
+    {
+      "office_id": 13,
+      "office": "HOD Office",
+      "building": "DT",
+      "floor": "1th",
+      "timing": null,
+      "services": "CSE",
+      "source": "DT"
+    },
+    {
+      "office_id": 14,
+      "office": "HOD Office",
+      "building": "DT",
+      "floor": "5th",
+      "timing": null,
+      "services": "CSE(DS Department)",
+      "source": "DT"
+    },
+    {
+      "office_id": 15,
+      "office": "Dean Office",
+      "building": "DT",
+      "floor": "6th",
+      "timing": null,
+      "services": null,
+      "source": "DT"
+    },
+    {
+      "office_id": 16,
+      "office": "Dean R&D Office",
+      "building": "DT",
+      "floor": "10th",
+      "timing": null,
+      "services": null,
+      "source": "DT"
+    },
+    {
+      "office_id": 17,
+      "office": "School of electrical & elec. eng dept of elec. eng",
+      "building": "B Block",
+      "floor": "First",
+      "timing": null,
+      "services": null,
+      "source": "B-BLOCK"
+    },
+    {
+      "office_id": 18,
+      "office": "Electrolitz elec. eng. student society office",
+      "building": "B Block",
+      "floor": "LG",
+      "timing": null,
+      "services": null,
+      "source": "B-BLOCK"
+    },
+    {
+      "office_id": 19,
+      "office": "Dept Biomendical eng",
+      "building": "B Block",
+      "floor": "Third B-3/4",
+      "timing": null,
+      "services": null,
+      "source": "B-BLOCK"
+    },
+    {
+      "office_id": 20,
+      "office": "MB 1/8",
+      "building": "Mba",
+      "floor": "1st",
+      "timing": null,
+      "services": null,
+      "source": "MBA"
+    },
+    {
+      "office_id": 21,
+      "office": "MB 2/6",
+      "building": "Mba",
+      "floor": "2nd",
+      "timing": null,
+      "services": null,
+      "source": "MBA"
+    },
+    {
+      "office_id": 22,
+      "office": "COE",
+      "building": "mba",
+      "floor": "3rd",
+      "timing": null,
+      "services": null,
+      "source": "MBA"
+    },
+    {
+      "office_id": 23,
+      "office": "OFFICE OF NATIONAL AND INTERNATIONAL RELATIONS",
+      "building": "IT",
+      "floor": "SECOND",
+      "timing": null,
+      "services": null,
+      "source": "IT"
+    },
+    {
+      "office_id": 24,
+      "office": "DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "building": "IT",
+      "floor": "THIRD",
+      "timing": null,
+      "services": null,
+      "source": "IT"
+    }
+  ],
+  "departments": [
+    {
+      "department_id": 5,
+      "department": "Departmental exam control",
+      "hod": null,
+      "room_no": "B- 2/3(A)",
+      "email": null,
+      "source": "B-BLOCK"
+    },
+    {
+      "department_id": 6,
+      "department": "Departmental Library",
+      "hod": null,
+      "room_no": null,
+      "email": null,
+      "source": "B-BLOCK"
+    },
+    {
+      "department_id": 7,
+      "department": "COMPUTER SCIENCE AND APPLICATIONS",
+      "hod": "DR. RAKESH KADU",
+      "room_no": "STAFF ROOM1",
+      "email": "kadurk@rknec.edu",
+      "source": "MCA"
+    },
+    {
+      "department_id": 8,
+      "department": "PHYSICAL EDUCATION",
+      "hod": "DR.AMIT ANURAG",
+      "room_no": null,
+      "email": "anuraga@rknec.edu",
+      "source": "IT"
+    }
+  ],
+  "admin_services": [
+    {
+      "service_id": 14,
+      "block_name": "Computer Centre Block (Beside Canteen)",
+      "department_room": "Accounts Room",
+      "services_provided": "Yearly Fees; Exam Fees; Fine; Caution Money Refunds; Scholarship",
+      "source": "ADMIN"
+    },
+    {
+      "service_id": 15,
+      "block_name": "Computer Centre Block (Beside Canteen)",
+      "department_room": "Establishment / Admission / SRC",
+      "services_provided": "TC; Bonafide; Student Records; Dispatch; Photocopy Centre; Documents; Appointment Order Copy; Admission Department; Dean Academic Copies; IQAC Department; EO Office; Campus Manager Office",
+      "source": "ADMIN"
+    },
+    {
+      "service_id": 16,
+      "block_name": "Admin Block",
+      "department_room": "Principal Office",
+      "services_provided": "Principal-related administrative services",
+      "source": "ADMIN"
+    },
+    {
+      "service_id": 17,
+      "block_name": "Admin Block",
+      "department_room": "Reception",
+      "services_provided": "Reception / general enquiries",
+      "source": "ADMIN"
+    },
+    {
+      "service_id": 18,
+      "block_name": "Admin Block",
+      "department_room": "Chairman Office",
+      "services_provided": "Chairman-related administrative services",
+      "source": "ADMIN"
+    },
+    {
+      "service_id": 19,
+      "block_name": "Admin Block",
+      "department_room": "UCO Bank",
+      "services_provided": "Banking services",
+      "source": "ADMIN"
+    },
+    {
+      "service_id": 20,
+      "block_name": "Library Block",
+      "department_room": "Library (Reading Room – 1st & 2nd Floor)",
+      "services_provided": "Library and reading room services",
+      "source": "ADMIN"
+    },
+    {
+      "service_id": 21,
+      "block_name": "Library Block",
+      "department_room": "Establishment / SRC / Admission",
+      "services_provided": "Establishment; SRC; Admission services",
+      "source": "ADMIN"
+    },
+    {
+      "service_id": 22,
+      "block_name": "Library Block",
+      "department_room": "Companies / Appointment Order",
+      "services_provided": "Company-related services; Appointment Order",
+      "source": "ADMIN"
+    },
+    {
+      "service_id": 23,
+      "block_name": "Computer Centre Block – 2nd Floor",
+      "department_room": "CDPC",
+      "services_provided": "Career Development and Placement Cell services",
+      "source": "ADMIN"
+    },
+    {
+      "service_id": 24,
+      "block_name": "Computer Centre Block – 2nd Floor",
+      "department_room": "Auditorium (Maharshi Kanaad Sabhagruh)",
+      "services_provided": "Auditorium / event and seminar services",
+      "source": "ADMIN"
+    },
+    {
+      "service_id": 25,
+      "block_name": "Computer Centre Block – Underground",
+      "department_room": "Utility Services",
+      "services_provided": "Utility-related services",
+      "source": "ADMIN"
+    },
+    {
+      "service_id": 26,
+      "block_name": "Computer Centre Block – Underground",
+      "department_room": "TOEFL (Authorized Test Center)",
+      "services_provided": "TOEFL authorized testing services",
+      "source": "ADMIN"
+    }
+  ],
+  "dt_seating_plan": [
+    {
+      "seating_id": 118,
+      "floor": "1",
+      "faculty_name": "Dr. Preeti Vaditel",
+      "room_cabin_no": "101",
+      "source_sheet": "Floor 1_Table 1",
+      "source_row": 7
+    },
+    {
+      "seating_id": 119,
+      "floor": "1",
+      "faculty_name": "Gulrukh nazneen",
+      "room_cabin_no": "101",
+      "source_sheet": "Floor 1_Table 1",
+      "source_row": 8
+    },
+    {
+      "seating_id": 120,
+      "floor": "1",
+      "faculty_name": "Shubham Tayade",
+      "room_cabin_no": "101",
+      "source_sheet": "Floor 1_Table 1",
+      "source_row": 9
+    },
+    {
+      "seating_id": 121,
+      "floor": "1",
+      "faculty_name": "Megha Rode",
+      "room_cabin_no": "101",
+      "source_sheet": "Floor 1_Table 1",
+      "source_row": 10
+    },
+    {
+      "seating_id": 122,
+      "floor": "1",
+      "faculty_name": "Dr. Purshotam Assudani",
+      "room_cabin_no": "104",
+      "source_sheet": "Floor 1_Table 1",
+      "source_row": 11
+    },
+    {
+      "seating_id": 123,
+      "floor": "1",
+      "faculty_name": "Dr. Vrushali Bongirwar",
+      "room_cabin_no": "104",
+      "source_sheet": "Floor 1_Table 1",
+      "source_row": 12
+    },
+    {
+      "seating_id": 124,
+      "floor": "1",
+      "faculty_name": "Ms. Shubhangi Neware",
+      "room_cabin_no": "104",
+      "source_sheet": "Floor 1_Table 1",
+      "source_row": 13
+    },
+    {
+      "seating_id": 125,
+      "floor": "1",
+      "faculty_name": "Ms. Shubhangi Tirpude",
+      "room_cabin_no": "108",
+      "source_sheet": "Floor 1_Table 1",
+      "source_row": 14
+    },
+    {
+      "seating_id": 126,
+      "floor": "1",
+      "faculty_name": "Dr. Lalit Agrawal",
+      "room_cabin_no": "108",
+      "source_sheet": "Floor 1_Table 1",
+      "source_row": 15
+    },
+    {
+      "seating_id": 127,
+      "floor": "1",
+      "faculty_name": "Dr. Sweta Jain",
+      "room_cabin_no": "108",
+      "source_sheet": "Floor 1_Table 1",
+      "source_row": 16
+    },
+    {
+      "seating_id": 128,
+      "floor": "1",
+      "faculty_name": "Dr. Praful Pardhi",
+      "room_cabin_no": "110",
+      "source_sheet": "Floor 1_Table 1",
+      "source_row": 17
+    },
+    {
+      "seating_id": 129,
+      "floor": "1",
+      "faculty_name": "Ms. Aparna Gurjar",
+      "room_cabin_no": "110",
+      "source_sheet": "Floor 1_Table 1",
+      "source_row": 18
+    },
+    {
+      "seating_id": 130,
+      "floor": "1",
+      "faculty_name": "Dr. Devishree Naidu",
+      "room_cabin_no": "110",
+      "source_sheet": "Floor 1_Table 1",
+      "source_row": 19
+    },
+    {
+      "seating_id": 131,
+      "floor": "2",
+      "faculty_name": "Ms. Hirkani Padwed",
+      "room_cabin_no": "201",
+      "source_sheet": "Floor 2_Table 1",
+      "source_row": 7
+    },
+    {
+      "seating_id": 132,
+      "floor": "2",
+      "faculty_name": "Hitesh Gehani",
+      "room_cabin_no": "201",
+      "source_sheet": "Floor 2_Table 1",
+      "source_row": 8
+    },
+    {
+      "seating_id": 133,
+      "floor": "2",
+      "faculty_name": "Dr. Nisarg Gandhewar",
+      "room_cabin_no": "204",
+      "source_sheet": "Floor 2_Table 1",
+      "source_row": 9
+    },
+    {
+      "seating_id": 134,
+      "floor": "2",
+      "faculty_name": "Dr. Abhijit Raipurkar",
+      "room_cabin_no": "204",
+      "source_sheet": "Floor 2_Table 1",
+      "source_row": 10
+    },
+    {
+      "seating_id": 135,
+      "floor": "2",
+      "faculty_name": "Mr. Dilipkumar Borikar",
+      "room_cabin_no": "204",
+      "source_sheet": "Floor 2_Table 1",
+      "source_row": 11
+    },
+    {
+      "seating_id": 136,
+      "floor": "2",
+      "faculty_name": "Ms. Neha Tirpude",
+      "room_cabin_no": "208",
+      "source_sheet": "Floor 2_Table 1",
+      "source_row": 12
+    },
+    {
+      "seating_id": 137,
+      "floor": "2",
+      "faculty_name": "Dr. Pravin Sonsare",
+      "room_cabin_no": "208",
+      "source_sheet": "Floor 2_Table 1",
+      "source_row": 13
+    },
+    {
+      "seating_id": 138,
+      "floor": "2",
+      "faculty_name": "Dr. Khusboo Khurana",
+      "room_cabin_no": "208",
+      "source_sheet": "Floor 2_Table 1",
+      "source_row": 14
+    },
+    {
+      "seating_id": 139,
+      "floor": "2",
+      "faculty_name": "Dr. Rina Damdoo",
+      "room_cabin_no": "210",
+      "source_sheet": "Floor 2_Table 1",
+      "source_row": 15
+    },
+    {
+      "seating_id": 140,
+      "floor": "2",
+      "faculty_name": "Dr. Arti Buche",
+      "room_cabin_no": "210",
+      "source_sheet": "Floor 2_Table 1",
+      "source_row": 16
+    },
+    {
+      "seating_id": 141,
+      "floor": "2",
+      "faculty_name": "Ms. Kanak Kalyani",
+      "room_cabin_no": "210",
+      "source_sheet": "Floor 2_Table 1",
+      "source_row": 17
+    },
+    {
+      "seating_id": 142,
+      "floor": "3",
+      "faculty_name": "Dr. Abhishek Sahu",
+      "room_cabin_no": "302",
+      "source_sheet": "Floor 3_Table 1",
+      "source_row": 7
+    },
+    {
+      "seating_id": 143,
+      "floor": "3",
+      "faculty_name": "Ms. Dhanashree Junghare",
+      "room_cabin_no": "302",
+      "source_sheet": "Floor 3_Table 1",
+      "source_row": 8
+    },
+    {
+      "seating_id": 144,
+      "floor": "3",
+      "faculty_name": "Dr. Charanjeet Dadiyala",
+      "room_cabin_no": "305",
+      "source_sheet": "Floor 3_Table 1",
+      "source_row": 9
+    },
+    {
+      "seating_id": 145,
+      "floor": "3",
+      "faculty_name": "Mr. Saurabh Tiwari",
+      "room_cabin_no": "305",
+      "source_sheet": "Floor 3_Table 1",
+      "source_row": 10
+    },
+    {
+      "seating_id": 146,
+      "floor": "3",
+      "faculty_name": "Dr. Poonam Agarkar",
+      "room_cabin_no": "305",
+      "source_sheet": "Floor 3_Table 1",
+      "source_row": 11
+    },
+    {
+      "seating_id": 147,
+      "floor": "3",
+      "faculty_name": "Dr. Avinash Agrawal",
+      "room_cabin_no": "307",
+      "source_sheet": "Floor 3_Table 1",
+      "source_row": 12
+    },
+    {
+      "seating_id": 148,
+      "floor": "3",
+      "faculty_name": "Dr. Suresh Balpande",
+      "room_cabin_no": "307",
+      "source_sheet": "Floor 3_Table 1",
+      "source_row": 13
+    },
+    {
+      "seating_id": 149,
+      "floor": "3",
+      "faculty_name": "Mr. Sameer Tembhurney",
+      "room_cabin_no": "309",
+      "source_sheet": "Floor 3_Table 1",
+      "source_row": 14
+    },
+    {
+      "seating_id": 150,
+      "floor": "3",
+      "faculty_name": "Ms. Rasika Padegaonkar",
+      "room_cabin_no": "309",
+      "source_sheet": "Floor 3_Table 1",
+      "source_row": 15
+    },
+    {
+      "seating_id": 151,
+      "floor": "3",
+      "faculty_name": "Ms. Sonam Meshram",
+      "room_cabin_no": "309",
+      "source_sheet": "Floor 3_Table 1",
+      "source_row": 16
+    },
+    {
+      "seating_id": 152,
+      "floor": "3",
+      "faculty_name": "Yogita Deshmukh",
+      "room_cabin_no": "309",
+      "source_sheet": "Floor 3_Table 1",
+      "source_row": 17
+    },
+    {
+      "seating_id": 153,
+      "floor": "3",
+      "faculty_name": "Kunal Kakade",
+      "room_cabin_no": "309",
+      "source_sheet": "Floor 3_Table 1",
+      "source_row": 18
+    },
+    {
+      "seating_id": 154,
+      "floor": "4",
+      "faculty_name": "Dr. Rashmi Welekar",
+      "room_cabin_no": "401",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 7
+    },
+    {
+      "seating_id": 155,
+      "floor": "4",
+      "faculty_name": "Mr. Dev Mukherjee",
+      "room_cabin_no": "401",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 8
+    },
+    {
+      "seating_id": 156,
+      "floor": "4",
+      "faculty_name": "Ms. Ankita Jaiswal",
+      "room_cabin_no": "401",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 9
+    },
+    {
+      "seating_id": 157,
+      "floor": "4",
+      "faculty_name": "Ms. Monika Bagade",
+      "room_cabin_no": "401",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 10
+    },
+    {
+      "seating_id": 158,
+      "floor": "4",
+      "faculty_name": "Bharti Kungwani",
+      "room_cabin_no": "401",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 11
+    },
+    {
+      "seating_id": 159,
+      "floor": "4",
+      "faculty_name": "Ms. Harshita patil",
+      "room_cabin_no": "404",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 12
+    },
+    {
+      "seating_id": 160,
+      "floor": "4",
+      "faculty_name": "Ms. Jaya Nanwani",
+      "room_cabin_no": "404",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 13
+    },
+    {
+      "seating_id": 161,
+      "floor": "4",
+      "faculty_name": "Ms. Sujata Wankhede",
+      "room_cabin_no": "404",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 14
+    },
+    {
+      "seating_id": 162,
+      "floor": "4",
+      "faculty_name": "Dr. Amit Pimpalkar",
+      "room_cabin_no": "408",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 15
+    },
+    {
+      "seating_id": 163,
+      "floor": "4",
+      "faculty_name": "Mr. Abhinay Gudade",
+      "room_cabin_no": "408",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 16
+    },
+    {
+      "seating_id": 164,
+      "floor": "4",
+      "faculty_name": "Pravin Khawse",
+      "room_cabin_no": "408",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 17
+    },
+    {
+      "seating_id": 165,
+      "floor": "4",
+      "faculty_name": "Mr. Yogesh Thakare",
+      "room_cabin_no": "410",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 18
+    },
+    {
+      "seating_id": 166,
+      "floor": "4",
+      "faculty_name": "Ms. Piyush Dhule",
+      "room_cabin_no": "410",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 19
+    },
+    {
+      "seating_id": 167,
+      "floor": "4",
+      "faculty_name": "Ms. Pranali Dandekar",
+      "room_cabin_no": "410",
+      "source_sheet": "Floor 4_Table 1",
+      "source_row": 20
+    },
+    {
+      "seating_id": 168,
+      "floor": "5",
+      "faculty_name": "Dr. Aarti Karandikar",
+      "room_cabin_no": "501",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 7
+    },
+    {
+      "seating_id": 169,
+      "floor": "5",
+      "faculty_name": "Ms. Pallavi Meshram",
+      "room_cabin_no": "501",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 8
+    },
+    {
+      "seating_id": 170,
+      "floor": "5",
+      "faculty_name": "Ms. Reetu Gupta",
+      "room_cabin_no": "501",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 9
+    },
+    {
+      "seating_id": 171,
+      "floor": "5",
+      "faculty_name": "Ms. Shruti Kolte",
+      "room_cabin_no": "501",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 10
+    },
+    {
+      "seating_id": 172,
+      "floor": "5",
+      "faculty_name": "Rutvik Bhondekar",
+      "room_cabin_no": "501",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 11
+    },
+    {
+      "seating_id": 173,
+      "floor": "5",
+      "faculty_name": "Dr. Supriya Gupta",
+      "room_cabin_no": "504",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 12
+    },
+    {
+      "seating_id": 174,
+      "floor": "5",
+      "faculty_name": "Ms. Shruti Nair",
+      "room_cabin_no": "504",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 13
+    },
+    {
+      "seating_id": 175,
+      "floor": "5",
+      "faculty_name": "Ms. Sonam Chopde",
+      "room_cabin_no": "504",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 14
+    },
+    {
+      "seating_id": 176,
+      "floor": "5",
+      "faculty_name": "Ms. Vinita Kakani",
+      "room_cabin_no": "508",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 15
+    },
+    {
+      "seating_id": 177,
+      "floor": "5",
+      "faculty_name": "Ms. Uma Yadav",
+      "room_cabin_no": "508",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 16
+    },
+    {
+      "seating_id": 178,
+      "floor": "5",
+      "faculty_name": "Ms. Titiksha Bhagat",
+      "room_cabin_no": "508",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 17
+    },
+    {
+      "seating_id": 179,
+      "floor": "5",
+      "faculty_name": "Dr. Chetana Thaokar",
+      "room_cabin_no": "510",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 18
+    },
+    {
+      "seating_id": 180,
+      "floor": "5",
+      "faculty_name": "Ms. Pratibha Kokardekar",
+      "room_cabin_no": "510",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 19
+    },
+    {
+      "seating_id": 181,
+      "floor": "5",
+      "faculty_name": "Dr. Shweta Bondre",
+      "room_cabin_no": "510",
+      "source_sheet": "Floor 5_Table 1",
+      "source_row": 20
+    },
+    {
+      "seating_id": 182,
+      "floor": "6",
+      "faculty_name": "Ms. Tejeswini Akulwar",
+      "room_cabin_no": "601",
+      "source_sheet": "Floor 6_Table 1",
+      "source_row": 7
+    },
+    {
+      "seating_id": 183,
+      "floor": "6",
+      "faculty_name": "Rasika Rewatkar",
+      "room_cabin_no": "601",
+      "source_sheet": "Floor 6_Table 1",
+      "source_row": 8
+    },
+    {
+      "seating_id": 184,
+      "floor": "6",
+      "faculty_name": "Ms. Nikita Jamdade",
+      "room_cabin_no": "601",
+      "source_sheet": "Floor 6_Table 1",
+      "source_row": 9
+    },
+    {
+      "seating_id": 185,
+      "floor": "6",
+      "faculty_name": "Komal Raut",
+      "room_cabin_no": "601",
+      "source_sheet": "Floor 6_Table 1",
+      "source_row": 10
+    },
+    {
+      "seating_id": 186,
+      "floor": "6",
+      "faculty_name": "Mr. Kaushik Roy",
+      "room_cabin_no": "604",
+      "source_sheet": "Floor 6_Table 1",
+      "source_row": 11
+    },
+    {
+      "seating_id": 187,
+      "floor": "6",
+      "faculty_name": "Dr. Ashish Chandak",
+      "room_cabin_no": "604",
+      "source_sheet": "Floor 6_Table 1",
+      "source_row": 12
+    },
+    {
+      "seating_id": 188,
+      "floor": "6",
+      "faculty_name": "Mr. Siddhant Jaiswal",
+      "room_cabin_no": "604",
+      "source_sheet": "Floor 6_Table 1",
+      "source_row": 13
+    },
+    {
+      "seating_id": 189,
+      "floor": "6",
+      "faculty_name": "Dr. Samir Ajani",
+      "room_cabin_no": "610",
+      "source_sheet": "Floor 6_Table 1",
+      "source_row": 14
+    },
+    {
+      "seating_id": 190,
+      "floor": "6",
+      "faculty_name": "Ms. R Suryawanshi",
+      "room_cabin_no": "610",
+      "source_sheet": "Floor 6_Table 1",
+      "source_row": 15
+    },
+    {
+      "seating_id": 191,
+      "floor": "6",
+      "faculty_name": "Mr. Anil Band",
+      "room_cabin_no": "610",
+      "source_sheet": "Floor 6_Table 1",
+      "source_row": 16
+    },
+    {
+      "seating_id": 192,
+      "floor": "7",
+      "faculty_name": "Kishor Peshwani",
+      "room_cabin_no": "703",
+      "source_sheet": "Floor 7_Table 1",
+      "source_row": 7
+    },
+    {
+      "seating_id": 193,
+      "floor": "7",
+      "faculty_name": "Mr. Rishiaram Maskare",
+      "room_cabin_no": "703",
+      "source_sheet": "Floor 7_Table 1",
+      "source_row": 8
+    },
+    {
+      "seating_id": 194,
+      "floor": "7",
+      "faculty_name": "T.R Harinkede",
+      "room_cabin_no": "703",
+      "source_sheet": "Floor 7_Table 1",
+      "source_row": 9
+    },
+    {
+      "seating_id": 195,
+      "floor": "7",
+      "faculty_name": "Dr. Chaitanya Rajan",
+      "room_cabin_no": "705",
+      "source_sheet": "Floor 7_Table 1",
+      "source_row": 10
+    },
+    {
+      "seating_id": 196,
+      "floor": "7",
+      "faculty_name": "Nupur Banode",
+      "room_cabin_no": "707",
+      "source_sheet": "Floor 7_Table 1",
+      "source_row": 11
+    },
+    {
+      "seating_id": 197,
+      "floor": "7",
+      "faculty_name": "Kiran Ande",
+      "room_cabin_no": "707",
+      "source_sheet": "Floor 7_Table 1",
+      "source_row": 12
+    },
+    {
+      "seating_id": 198,
+      "floor": "7",
+      "faculty_name": "Ms. Ritu Godhani",
+      "room_cabin_no": "707",
+      "source_sheet": "Floor 7_Table 1",
+      "source_row": 13
+    },
+    {
+      "seating_id": 199,
+      "floor": "7",
+      "faculty_name": "Chandan Sah",
+      "room_cabin_no": "707",
+      "source_sheet": "Floor 7_Table 1",
+      "source_row": 14
+    },
+    {
+      "seating_id": 200,
+      "floor": "7",
+      "faculty_name": "R. Ponmalar",
+      "room_cabin_no": "707",
+      "source_sheet": "Floor 7_Table 1",
+      "source_row": 15
+    },
+    {
+      "seating_id": 201,
+      "floor": "8",
+      "faculty_name": "Gunjan Keswani",
+      "room_cabin_no": "801",
+      "source_sheet": "Floor 8_Table 1",
+      "source_row": 7
+    },
+    {
+      "seating_id": 202,
+      "floor": "8",
+      "faculty_name": "Anshul Pande",
+      "room_cabin_no": "801",
+      "source_sheet": "Floor 8_Table 1",
+      "source_row": 8
+    },
+    {
+      "seating_id": 203,
+      "floor": "8",
+      "faculty_name": "Ms. Bhagyashree Madan",
+      "room_cabin_no": "801",
+      "source_sheet": "Floor 8_Table 1",
+      "source_row": 9
+    },
+    {
+      "seating_id": 204,
+      "floor": "8",
+      "faculty_name": "Arslaan Sheikh",
+      "room_cabin_no": "801",
+      "source_sheet": "Floor 8_Table 1",
+      "source_row": 10
+    },
+    {
+      "seating_id": 205,
+      "floor": "8",
+      "faculty_name": "Barkha S Dange",
+      "room_cabin_no": "804",
+      "source_sheet": "Floor 8_Table 1",
+      "source_row": 11
+    },
+    {
+      "seating_id": 206,
+      "floor": "8",
+      "faculty_name": "Ms. S Ghodeswar",
+      "room_cabin_no": "804",
+      "source_sheet": "Floor 8_Table 1",
+      "source_row": 12
+    },
+    {
+      "seating_id": 207,
+      "floor": "8",
+      "faculty_name": "Leena Rokde",
+      "room_cabin_no": "804",
+      "source_sheet": "Floor 8_Table 1",
+      "source_row": 13
+    },
+    {
+      "seating_id": 208,
+      "floor": "8",
+      "faculty_name": "Ms. Nikita Kataria",
+      "room_cabin_no": "810",
+      "source_sheet": "Floor 8_Table 1",
+      "source_row": 14
+    },
+    {
+      "seating_id": 209,
+      "floor": "8",
+      "faculty_name": "Ms. Neha Lanke",
+      "room_cabin_no": "810",
+      "source_sheet": "Floor 8_Table 1",
+      "source_row": 15
+    },
+    {
+      "seating_id": 210,
+      "floor": "8",
+      "faculty_name": "Bhushan Gedam",
+      "room_cabin_no": "810",
+      "source_sheet": "Floor 8_Table 1",
+      "source_row": 16
+    },
+    {
+      "seating_id": 211,
+      "floor": "9",
+      "faculty_name": "Dr. Sharvari Deshmukh",
+      "room_cabin_no": "904",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 7
+    },
+    {
+      "seating_id": 212,
+      "floor": "9",
+      "faculty_name": "Ashwini Agashe",
+      "room_cabin_no": "904",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 8
+    },
+    {
+      "seating_id": 213,
+      "floor": "9",
+      "faculty_name": "Ms. Ayesha Khan",
+      "room_cabin_no": "904",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 9
+    },
+    {
+      "seating_id": 214,
+      "floor": "9",
+      "faculty_name": "Riya Kumbhare",
+      "room_cabin_no": "904",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 10
+    },
+    {
+      "seating_id": 215,
+      "floor": "9",
+      "faculty_name": "Samiha Khan",
+      "room_cabin_no": "905",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 11
+    },
+    {
+      "seating_id": 216,
+      "floor": "9",
+      "faculty_name": "Ms. Sana Qazi",
+      "room_cabin_no": "905",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 12
+    },
+    {
+      "seating_id": 217,
+      "floor": "9",
+      "faculty_name": "Poonam Meghare",
+      "room_cabin_no": "905",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 13
+    },
+    {
+      "seating_id": 218,
+      "floor": "9",
+      "faculty_name": "Sagar Tete",
+      "room_cabin_no": "905",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 14
+    },
+    {
+      "seating_id": 219,
+      "floor": "9",
+      "faculty_name": "Tintu Philip",
+      "room_cabin_no": "905",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 15
+    },
+    {
+      "seating_id": 220,
+      "floor": "9",
+      "faculty_name": "Mikhail John",
+      "room_cabin_no": "905",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 16
+    },
+    {
+      "seating_id": 221,
+      "floor": "9",
+      "faculty_name": "J Wankhede",
+      "room_cabin_no": "905",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 17
+    },
+    {
+      "seating_id": 222,
+      "floor": "9",
+      "faculty_name": "Aboli Hole",
+      "room_cabin_no": "905",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 18
+    },
+    {
+      "seating_id": 223,
+      "floor": "9",
+      "faculty_name": "Sanil Raut",
+      "room_cabin_no": "905",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 19
+    },
+    {
+      "seating_id": 224,
+      "floor": "9",
+      "faculty_name": "Girish Umaratkar",
+      "room_cabin_no": "905",
+      "source_sheet": "Floor 9_Table 1",
+      "source_row": 20
+    },
+    {
+      "seating_id": 225,
+      "floor": "10",
+      "faculty_name": "Kavita P Manekar",
+      "room_cabin_no": "1001",
+      "source_sheet": "Floor 10_Table 1",
+      "source_row": 7
+    },
+    {
+      "seating_id": 226,
+      "floor": "10",
+      "faculty_name": "Priyanka Mangalkar",
+      "room_cabin_no": "1001",
+      "source_sheet": "Floor 10_Table 1",
+      "source_row": 8
+    },
+    {
+      "seating_id": 227,
+      "floor": "10",
+      "faculty_name": "Sneha Patle",
+      "room_cabin_no": "1001",
+      "source_sheet": "Floor 10_Table 1",
+      "source_row": 9
+    },
+    {
+      "seating_id": 228,
+      "floor": "10",
+      "faculty_name": "Asakti Rautkar",
+      "room_cabin_no": "1001",
+      "source_sheet": "Floor 10_Table 1",
+      "source_row": 10
+    },
+    {
+      "seating_id": 229,
+      "floor": "10",
+      "faculty_name": "Ms. Shital Shende",
+      "room_cabin_no": "1004",
+      "source_sheet": "Floor 10_Table 1",
+      "source_row": 11
+    },
+    {
+      "seating_id": 230,
+      "floor": "10",
+      "faculty_name": "Vishwas Bhagwat",
+      "room_cabin_no": "1004",
+      "source_sheet": "Floor 10_Table 1",
+      "source_row": 12
+    },
+    {
+      "seating_id": 231,
+      "floor": "10",
+      "faculty_name": "Pratiksha Ramteke",
+      "room_cabin_no": "1004",
+      "source_sheet": "Floor 10_Table 1",
+      "source_row": 13
+    },
+    {
+      "seating_id": 232,
+      "floor": "10",
+      "faculty_name": "Purva Vyavahare",
+      "room_cabin_no": "1010",
+      "source_sheet": "Floor 10_Table 1",
+      "source_row": 14
+    },
+    {
+      "seating_id": 233,
+      "floor": "10",
+      "faculty_name": "Rashmi Dadge",
+      "room_cabin_no": "1010",
+      "source_sheet": "Floor 10_Table 1",
+      "source_row": 15
+    },
+    {
+      "seating_id": 234,
+      "floor": "10",
+      "faculty_name": "Ayushi Dubey",
+      "room_cabin_no": "1010",
+      "source_sheet": "Floor 10_Table 1",
+      "source_row": 16
+    }
+  ]
+}
