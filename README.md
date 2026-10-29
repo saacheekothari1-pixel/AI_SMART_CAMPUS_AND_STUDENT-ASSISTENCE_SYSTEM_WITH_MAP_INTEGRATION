@@ -27,7 +27,7 @@ The **AI Smart Campus Navigation and Student Assistance System** provides a cent
 | Backend | Python, Flask |
 | Database | MySQL |
 | Campus Maps | Mapbox GL JS |
-| AI Assistance | Gemini API integration |
+| AI Assistance | AI Chatbot integration |
 | Dataset Management | Excel and Python |
 | Development Environment | Visual Studio Code, Git, GitHub |
 
